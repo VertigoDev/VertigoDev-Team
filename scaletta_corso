@@ -1,0 +1,15 @@
+Scaletta degli argomenti da trattare durante il corso di Fondamenti di Android del 2016-02-29
+	1 Android
+		1.1 DVM e ART (Linguaggio java, bytecode .dex, JIT e AOT)
+		1.2 Api version
+	2 Applicazioni Android
+		2.4 Activity e Intent (Ciclo di vita, Fragment)
+		2.1 Android Manifest
+		2.2 Librerie Android (Android API, Java libraries, support libraries, Google APIs)
+		2.3 Gradle
+	3 Sviluppo
+		3.1 SDK
+		3.2 IDE Android Studio
+		3.3 XML ed interfaccia grafica
+		3.4 Linking tra XML e Java
+		3.5 Organizzazione dei res files
